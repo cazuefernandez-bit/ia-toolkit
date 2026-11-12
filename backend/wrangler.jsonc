@@ -35,7 +35,7 @@
   "previews": {
     "durable_objects": { "bindings": [{ "name": "MEMORIA", "class_name": "Memoria" }] },
     "ai": { "binding": "AI" },
-    "vars": {
+    "vars": {,
       "NOMBRE_EQUIPO": "Vista previa",
       "GEMINI_MODELOS": "gemini-3.6-flash,gemini-3.5-flash,gemini-flash-latest",
       "MAX_PASOS": "8",
